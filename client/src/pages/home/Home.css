@@ -1,0 +1,54 @@
+body{
+  background-color: #283747;
+}
+h2{
+  font-family:Arial, Helvetica, sans-serif;
+}
+
+.home{
+  text-align: center;
+  color: white;
+}
+.box{
+  height: 200px;
+  width: 400px;
+  margin-top: 150px;
+  padding-top: 50px;
+  margin-left: auto;
+  margin-right: auto;
+
+}
+.username, .room{
+  margin-bottom: 10px;
+  padding: 12px;
+  width: 350px;
+  font-weight: 300;
+}
+
+.button{
+  display: block;
+  margin: 0 auto;
+  width: 350px;
+  padding: 10px;
+  background-color: #3498DB;
+  border: 2px solid #3498DB;
+  color: aliceblue;
+  font-weight: 600;
+  font-size: 1em;
+}
+.text-input{
+  display: block;
+
+  margin-bottom: 5px;
+  text-align: left;
+  margin-left: 30px;
+}
+
+.link{
+  text-decoration: none;
+}
+.btn-danger{
+  font-weight: 600;
+  background-color: #EC7063;
+  border-color: #EC7063;
+}
